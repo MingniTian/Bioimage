@@ -1,4 +1,4 @@
-% POIRegistration_102.m
+% POIRegistration_103.m
 
 % This script applies a geometric transformation on a selected image to
 % register it to a selected reference image. The type of transformation is
